@@ -1,1 +1,36 @@
+.navbar{
+    background-color:red;
+  
+}
 
+.nav-link{
+    color:white;
+}
+
+.about3{
+background-color: deeppink;
+}
+
+.about2{
+    background-color:lightseagreen;
+}
+.about1{
+    background-color:mediumslateblue;
+}
+
+.btn{
+    background-color: orange;
+    color:blue;
+}
+
+.contacth3{
+    color:firebrick;
+}
+
+.contacth1{
+    color:darkgoldenrod;
+}
+
+.footer{
+    background-color: limegreen;
+}
